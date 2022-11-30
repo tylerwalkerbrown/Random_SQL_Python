@@ -167,7 +167,7 @@ df.head()#.to_clipboard()
       <th>1</th>
       <td>891489</td>
       <td>XXX</td>
-      <td>Nichols, Beth</td>
+      <td>X</td>
       <td>2020-06-12 00:00:00</td>
       <td>Synthetic Barrier Spray</td>
       <td>115</td>
@@ -625,8 +625,8 @@ customers
   <tbody>
     <tr>
       <th>891489</th>
-      <td>2462, Windham Hill Road     PO Box 1115 W Town...</td>
-      <td>Nichols, Beth</td>
+      <td>X</td>
+      <td>X</td>
       <td>2020-06-12 00:00:00</td>
       <td>Synthetic Barrier Spray</td>
       <td>115</td>
@@ -639,8 +639,8 @@ customers
     </tr>
     <tr>
       <th>896665</th>
-      <td>371, Billings Road      Stowe, Vermont 05672-0...</td>
-      <td>Wagner, Martha</td>
+      <td>X</td>
+      <td>X</td>
       <td>2020-06-13 00:00:00</td>
       <td>Botanical Barrier 3 Week</td>
       <td>123</td>
@@ -653,8 +653,8 @@ customers
     </tr>
     <tr>
       <th>905074</th>
-      <td>598, Black Willow Lane     598, Black Willow L...</td>
-      <td>Pecor, Dominique</td>
+      <td>X</td>
+      <td>X</td>
       <td>2020-06-19 00:00:00</td>
       <td>Accelerated Service 1</td>
       <td>123</td>
@@ -667,7 +667,7 @@ customers
     </tr>
     <tr>
       <th>905637</th>
-      <td>70, Essex Way Essex Junction, VT 05452</td>
+      <td>X</td>
       <td>Essex Resort</td>
       <td>2020-06-26 00:00:00</td>
       <td>Accelerated Service 1</td>
@@ -681,8 +681,8 @@ customers
     </tr>
     <tr>
       <th>906190</th>
-      <td>33   Upper Springs RD   Stowe, VT 05672</td>
-      <td>Davis, Grant</td>
+      <td>X</td>
+      <td>X</td>
       <td>2020-06-26 00:00:00</td>
       <td>Accelerated Service 1</td>
       <td>113</td>
@@ -710,7 +710,7 @@ customers
     <tr>
       <th>1094609</th>
       <td>43  Forest Road    Essex Junction, VT 05452</td>
-      <td>Howatt, Amy</td>
+      <td>X</td>
       <td>2022-08-03 00:00:00</td>
       <td>Synthetic Barrier Spray</td>
       <td>83</td>
@@ -723,8 +723,8 @@ customers
     </tr>
     <tr>
       <th>1095582</th>
-      <td>38  Chevy Hill Road    Weare, NH 03281</td>
-      <td>Record, Melissa</td>
+      <td>X</td>
+      <td>X</td>
       <td>2022-08-12 00:00:00</td>
       <td>Synthetic Barrier Spray</td>
       <td>93</td>
@@ -737,8 +737,8 @@ customers
     </tr>
     <tr>
       <th>1095648</th>
-      <td>298  Whipple Road    Jefferson, NH 03583</td>
-      <td>Ingerson, Kricket</td>
+      <td>X</td>
+      <td>X</td>
       <td>2022-08-09 00:00:00</td>
       <td>Special Event Spray</td>
       <td>188</td>
@@ -751,8 +751,8 @@ customers
     </tr>
     <tr>
       <th>1096639</th>
-      <td>7  Leanne Drive    Concord, NH 03303</td>
-      <td>Ylitalo, Vince</td>
+      <td>X</td>
+      <td>X</td>
       <td>2022-08-19 00:00:00</td>
       <td>Synthetic Barrier Spray</td>
       <td>93</td>
@@ -765,8 +765,8 @@ customers
     </tr>
     <tr>
       <th>1096973</th>
-      <td>370  Monarch Road    Shelburne, VT 05482</td>
-      <td>Morris, Deb</td>
+      <td>X</td>
+      <td>X</td>
       <td>2022-08-16 00:00:00</td>
       <td>Special Event Spray</td>
       <td>200</td>
