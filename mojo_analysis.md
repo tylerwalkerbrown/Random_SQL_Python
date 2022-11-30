@@ -157,8 +157,8 @@ df.head()#.to_clipboard()
     <tr>
       <th>0</th>
       <td>1018107</td>
-      <td>408  3rd Range Road    Pembroke, NH 03275</td>
-      <td>Jacobs, Greta</td>
+      <td>XXXX</td>
+      <td>XXXX</td>
       <td>0200-02-10 02:00:00</td>
       <td>Synthetic Barrier Spray</td>
       <td>113</td>
@@ -166,7 +166,7 @@ df.head()#.to_clipboard()
     <tr>
       <th>1</th>
       <td>891489</td>
-      <td>2462, Windham Hill Road     PO Box 1115 W Town...</td>
+      <td>XXX</td>
       <td>Nichols, Beth</td>
       <td>2020-06-12 00:00:00</td>
       <td>Synthetic Barrier Spray</td>
@@ -175,8 +175,8 @@ df.head()#.to_clipboard()
     <tr>
       <th>2</th>
       <td>896665</td>
-      <td>371, Billings Road      Stowe, Vermont 05672-0...</td>
-      <td>Wagner, Martha</td>
+      <td>XXX.</td>
+      <td>XX</td>
       <td>2020-06-13 00:00:00</td>
       <td>Botanical Barrier 3 Week</td>
       <td>123</td>
@@ -184,8 +184,8 @@ df.head()#.to_clipboard()
     <tr>
       <th>3</th>
       <td>891489</td>
-      <td>2462, Windham Hill Road     PO Box 1115 W Town...</td>
-      <td>Nichols, Beth</td>
+      <td>XXX</td>
+      <td>XXX</td>
       <td>2020-06-19 00:00:00</td>
       <td>Synthetic Barrier Spray</td>
       <td>115</td>
@@ -193,8 +193,8 @@ df.head()#.to_clipboard()
     <tr>
       <th>4</th>
       <td>896665</td>
-      <td>371, Billings Road      Stowe, Vermont 05672-0...</td>
-      <td>Wagner, Martha</td>
+      <td>XXX</td>
+      <td>XXX</td>
       <td>2020-06-19 00:00:00</td>
       <td>Botanical Barrier 3 Week</td>
       <td>123</td>
