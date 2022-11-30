@@ -668,7 +668,7 @@ customers
     <tr>
       <th>905637</th>
       <td>X</td>
-      <td>Essex Resort</td>
+      <td>X</td>
       <td>2020-06-26 00:00:00</td>
       <td>Accelerated Service 1</td>
       <td>173</td>
@@ -709,7 +709,7 @@ customers
     </tr>
     <tr>
       <th>1094609</th>
-      <td>43  Forest Road    Essex Junction, VT 05452</td>
+      <td>X</td>
       <td>X</td>
       <td>2022-08-03 00:00:00</td>
       <td>Synthetic Barrier Spray</td>
